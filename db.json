@@ -3,7 +3,7 @@
       { "id": 1, "name": "flowers" },
       { "id": 2, "name": "sweets" },
       { "id": 3, "name": "toys" },
-      { "id": 4, "name": "clothes" },
+      { "id": 4, "name": "clothes" }
   ],
   "products": []
 }
